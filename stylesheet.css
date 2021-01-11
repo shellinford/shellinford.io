@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body{
+  background-image: url(../money.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.head h1{
+  font-size:50px;
+  text-align: center;
+}
